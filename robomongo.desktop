@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Robomongo
+Comment=Mongodb admin utility
+Exec=cd /opt/robomongo/bin && ./robo3t
+Icon=robomongo
+Categories=Database;
+Terminal=false

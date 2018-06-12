@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Because robomongo expects qt.conf in current direction which will point
+# to lib directory for packaged Qt dependencies... lame I know.
+
+cd /opt/robomongo/bin/ && ./robo3t
